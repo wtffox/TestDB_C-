@@ -1,0 +1,16 @@
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\TestDB.exe.config
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\TestDB.exe
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\TestDB.pdb
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.csproj.AssemblyReference.cache
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.Properties.Resources.resources
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.cache
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.csproj.CoreCompileInputs.cache
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.exe
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.pdb
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\EntityFramework.dll
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\EntityFramework.xml
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#_projects\repos\TestDB\TestDB\bin\Debug\ru\EntityFramework.resources.dll
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.AdminForm.resources
+D:\C#_projects\repos\TestDB\TestDB\obj\Debug\TestDB.LoginForm.resources
